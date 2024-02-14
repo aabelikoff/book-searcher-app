@@ -1,4 +1,4 @@
-const libUrl = "http://openlibrary.org/search.json";
+const libUrl = "https://openlibrary.org/search.json";
 let offset = 0;
 let total = 0;
 const spin = new Spinner();
